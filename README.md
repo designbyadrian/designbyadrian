@@ -1,8 +1,8 @@
 With over 15 years of experience in web development, I design and build mobile and desktop web apps using tools like Node.js and Angular. With past work in graphics and interaction design, and studies in computer science and human-computer interaction (HCI), I am Designer Slash Developer.
 
-## 🎨 Create Suite
+## 🎨 Creative Suite
 
-History in desktop publishing, with over a decade of experience with the tools including Illustrator and PageMaker/InDesign.
+History in desktop publishing, with over a decade of experience with the tools including Illustrator, PageMaker/InDesign, and, nowadays, the Affinity collection.
 
 ## 👽 UI/UX
 
